@@ -2,7 +2,7 @@
 GenCheck is a web-based software system designed to detect whether a PowerPoint presentation is AI-generated or human-created. With the rise of AI tools like Gamma, Tome, and ChatGPT Slides, ensuring originality and academic integrity has become challenging. GenCheck addresses this issue by combining AI detection, plagiarism analysis, and PPT structure inspection.
 
 # Live demo
-
+https://gencheck-ai.vercel.app/
 # Problem Statement
 AI tools can generate complete presentations in seconds, leading to challenges in:<br>
  1. Academic honesty
