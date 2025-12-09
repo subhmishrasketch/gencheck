@@ -18,5 +18,5 @@ GenCheck analyzes PPT files using:
 It generates an authenticity report with AI probability and plagiarism percentage.
 
 # Team 
-**Team Legion** 
+**Team Legion** <br>
 Domain: Software Systems
